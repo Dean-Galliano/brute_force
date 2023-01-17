@@ -1,4 +1,4 @@
-num=int(input("what's is the pass?"))
+num=int(input("what's the pass?"))
 
 def login (password):
     set_pass=num
